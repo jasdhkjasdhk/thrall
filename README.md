@@ -1,4 +1,4 @@
 # thrall# thrall
 
 
-![img](./img.png)
+![img](.\img.png)
