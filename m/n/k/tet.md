@@ -13,4 +13,6 @@
 
 ![img (1).png](docs\imgs\img%20(1)5k5tgZ08mg.png) 
 
-![img.png](docs\imgs\imgtNdtLFDCe5.png) 
+![img.png](docs/imgs/imgtNdtLFDCe5.png) 
+
+![img.png](docs\imgs\imgdQziz64GLh.png) 
