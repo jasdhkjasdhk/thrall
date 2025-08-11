@@ -1,1 +1,1 @@
-![Безымянный.png](docs\imgs\БезымянныйbNhC2zTeW7.png) 
+![img.png](docs\imgs\imgmvnLrLz32g.png) 
